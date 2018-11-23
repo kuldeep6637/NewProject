@@ -1,0 +1,26 @@
+
+<suite name="TestNG Scripts" parallel="tests">
+
+
+	<test name="DatDriven Test">
+    <classes>
+      <class name="com.DataDriven.NewTours_UserResitration_Excel"/>
+    </classes>
+  </test>
+
+
+ <test name="KeyWord Test">
+    <classes>
+      <class name="com.Keyword.NewToursLogInTest"/>
+    </classes>
+  </test>
+
+
+
+  <test name="POM Test">
+    <classes>
+      <class name="com.POM.NewToursApplicationHomePage"/>
+    </classes>
+  </test> 
+  
+</suite> 

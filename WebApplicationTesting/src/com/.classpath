@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Documents/SQLJarFiles/mysql-connector-java-5.1.40.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/SQLJarFiles/mysql-connector-java-6.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/SQLJarFiles/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/SQLJarFiles/selenium-server-standalone-3.7.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
